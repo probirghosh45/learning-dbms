@@ -6,5 +6,5 @@
 TRUNCATE TABLE person3;
 
 drop Table person2
-
+SELECT information_schema
 
