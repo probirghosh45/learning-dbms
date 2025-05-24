@@ -1,0 +1,14 @@
+-- Active: 1747421302880@@127.0.0.1@5433@update_db5@public
+
+-- ALTER Keyword
+-- SELECT Queries
+-- WHERE Clause
+-- Scalar and Aggregate
+-- BETWEEN, LIKE, IN, ILIKE
+-- Pagination with LIMIT and OFFSET
+-- Update Operator
+-- Grouping
+-- Foreign key deletion
+-- INNER JOIN
+-- FULL JOIN
+-- Date and Date Functions
